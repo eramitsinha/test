@@ -1,0 +1,22 @@
+/*
+Theme Name:siva
+Theme Description:This is our custom theme.
+Version:1.0
+Author Name:Mr Siva
+Author Link: https://abc.com/
+*/
+
+.navbar
+{
+	background: black!important;
+}
+
+.all-posts .post-item .post-main-info .post-title
+{
+	text-transform: none!important;
+}
+
+.navbar img
+{
+	width:100px!important;
+}
